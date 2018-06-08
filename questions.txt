@@ -1,0 +1,11 @@
+Lenguaje que nos permite definir la estructura de las páginas web. 
+Html
+
+Lenguajes que nos permite definir el formato (los estilos) de los elementos HTML. 
+Css
+
+Framework css más popular de la actualidad y se utilza para crear páginas web con un diseño consistente.
+Bootstrap
+
+Es la clase padre de todas las clases que no hereden de alguna otra. Define métodos como class, to_s, to_i
+Object
